@@ -20,5 +20,8 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
 #Rust stuff
 /target
+#executaveis
+zexe
